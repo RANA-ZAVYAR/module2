@@ -1,0 +1,21 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+.items{
+    display: flex;
+    flex-direction: column;
+    text-decoration: none;
+    list-style: none;
+}
+#img11{
+    width: 500px;
+}
+#imgbg{
+    background-image: url(img/last.jpg);
+}
+
+
+
+
